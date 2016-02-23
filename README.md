@@ -6,10 +6,10 @@ This is Autocomplete place using Google Maps Place API IOS SDK With Swift
 
 #How to install
 
-Clone this repo
-Open directory on terminal
-run pod install (this will download Google Maps SDK iOS)
-run the workspace
+*Clone this repo
+*Open directory on terminal
+*run pod install (this will download Google Maps SDK iOS)
+*run the workspace
 
 #Screenshoot
 
